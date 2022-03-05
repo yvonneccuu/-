@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>苗栗爬山</title>
+</head>
+<body>
+    <h1>
+        3/12爬山地點
+    </h1>
+    <h2>
+        天氣
+    </h2>
+    <img src="天氣.jpg" width="200">
+    <h2>
+        墨硯山-easy
+    </h2>
+    <p>導航曲洞宮，路程很短，大概只是去爬樓梯哈哈。</p>
+    <h2>
+        仙山登山步道-登山入門
+    </h2>
+    <p>稍有難度，但也有小三跟中班的小孩跟父母去爬Www</p>
+    <h4>評論</h4>
+    <img src="評論.jpg" width="600">
+</body>
+</html>
